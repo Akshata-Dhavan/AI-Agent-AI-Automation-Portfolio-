@@ -68,7 +68,28 @@ The email includes:
 The workflow ends after sending Slack and email notifications.
 All feedback is logged and categorized automatically in Airtable.
 
+** Tools Used ** 
 
+** n8n **
+** Open AI Chat Model **
+** Airtable **
+** Slack **
+** Gmail **
+
+** USE CASE **
+Automatically classify and route complaints to the right support staff.
+Send acknowledgment emails to customers confirming receipt.
+Capture feature requests and log them in Airtable for review.
+Notify product managers via Slack when new ideas arrive
+
+** Workflow Outcome **
+
+* Feedback is instantly analyzed by AI and sorted into categories.
+* All submissions are stored neatly in Airtable for tracking and analysis.
+* Real-time Slack notifications alert the correct teams to take quick action.
+* Users who submit complaints receive an automatic confirmation email.
+* Structured feedback helps teams identify common issues and opportunities.
+* Entire process — from collection to notification — runs without human intervention.
 
 
 
